@@ -1,0 +1,136 @@
+Yu-Gi-Oh! Rush Duel Structure Deck: Black Magic Ritual
+Card List (English Names + EDOPro IDs) - INCOMPLETE LIST
+
+RITUAL MONSTERS:
+1. Magician of Black Chaos (EDOPro: 160323001)
+   Level 8 DARK Spellcaster Ritual Effect Monster ATK 2800 DEF 2600
+   This card's name is treated as "Dark Magician" while in the GY
+
+MONSTER CARDS:
+2. Dark Magician (EDOPro: 160002000)
+   Level 7 DARK Spellcaster Normal Monster ATK 2500 DEF 2100
+
+3. Dark Magician Girl (EDOPro: 160211001)
+   Level 6 DARK Spellcaster Effect Monster
+
+4. Ceremonial Sorcerer (EDOPro: 160323002)
+   Ritual support monster
+
+5. Ceremonial Knight (EDOPro: 160323003)
+   Ritual support monster
+
+6. Mature Dark Magician (EDOPro: 160209082)
+   DARK Spellcaster Effect Monster
+
+7. Sevens Road Magician (EDOPro: 160205003)
+   Level 7 DARK Spellcaster Effect Monster ATK 2100 DEF 1500
+
+8. Sevens Road Witch (EDOPro: 160013000)
+   Level 3 DARK Spellcaster Effect Monster ATK 1000 DEF 600
+
+9. Sevens Road Sorcerer (EDOPro: 160008011)
+   Level 4 DARK Spellcaster Effect Monster ATK 1500 DEF 600
+
+10. Sevens Road Enchanter (EDOPro: 160418002)
+    Level 2 DARK Spellcaster Effect Monster ATK 300 DEF 600
+
+11. Sevens Road Mage (EDOPro: 160002016)
+    Level 5 DARK Spellcaster Effect Monster ATK 1900 DEF 1000
+
+12. Winged Dragon of Chaos (EDOPro: 160323006)
+    Special bonus card
+
+13. Marching Beaver Warrior (EDOPro: 160323007)
+    Special bonus card
+
+14. Light-Calling Griffore (EDOPro: 160323008)
+    Special bonus card
+
+15. Dark-Guiding Kuriboh (EDOPro: 160323009)
+    Special bonus card
+
+16. Explorer of the Temple (EDOPro: 160323010)
+    Level 3 LIGHT Warrior Effect Monster ATK 1000 DEF 300
+
+17. Legendary Swordsman – Buster Blader (EDOPro: 160206007)
+    Level 7 EARTH Warrior Effect Monster ATK 2600 DEF 2300
+
+18. Dark Executor Warlock (EDOPro: 160210035)
+    Level 4 DARK Spellcaster Effect Monster ATK 1500 DEF 1200
+
+19. Dark Sword Magician (EDOPro: 160209080)
+    Level 6 DARK Warrior Effect Monster ATK 1900 DEF 1700
+
+20. Obsidian Magical Soldier (EDOPro: 160209081)
+    Level 4 DARK Warrior Effect Monster ATK 1500 DEF 1200
+
+21. Accel Wonder Light (EDOPro: 160209012)
+    Level 4 LIGHT Fairy Effect Monster ATK 1500 DEF 1000
+
+22. Obnoxious Celtic Guard (EDOPro: 160016032)
+    Level 4 EARTH Warrior Effect Monster ATK 1400 DEF 1200
+
+23. Darkness Fource Seeker (EDOPro: 160428007)
+    Level 4 DARK Spellcaster Effect Monster ATK 1500 DEF 1000
+
+24. Legend Magician (EDOPro: 160206005)
+    Level 5 DARK Spellcaster Effect Monster ATK 1700 DEF 1000
+
+25. Witness of Dragon Destroyer (EDOPro: 160206037)
+    Level 1 DARK Spellcaster Effect Monster ATK 0 DEF 0
+
+26. Magician's Curtain (EDOPro: 160206012)
+    Level 2 DARK Spellcaster Effect Monster ATK 800 DEF 600
+
+SPELL CARDS:
+27. Black Magic Ritual (EDOPro: 160323030)
+    Ritual Spell Card
+    Used to Ritual Summon "Magician of Black Chaos"
+
+28. Ceremonial Gate (EDOPro: 160323031)
+    Ritual Spell Card
+    Can Ritual Summon "Ceremonial Sorcerer" or "Ceremonial Knight"
+
+29. Jewel of the Dark Magician (EDOPro: 160209083)
+    Spell Card - Dark Magician support
+
+30. Dark Resonance Burst (EDOPro: 160421027)
+    Spell Card
+
+31. Mind Control (EDOPro: 160323029)
+    Spell Card - Take control of opponent's monster
+
+32. Dark Magic Attack (EDOPro: 160002041)
+    Spell Card - Dark Magician support
+
+33. Thousand Knives (EDOPro: 160002040)
+    Spell Card - Destroy 1 face-up monster on the field
+
+34. Spell Extraction (EDOPro: 160209085)
+    Spell Card - Draw 2 cards
+
+35. Ship of Seven Treasures (EDOPro: 160007052)
+    Spell Card - Draw and search support
+
+36. Legend Strike (EDOPro: 160014057)
+    Spell Card - Attack boost support
+
+TRAP CARDS:
+37. Mirror Force (EDOPro: 160418003)
+    Trap Card - Destroy all Attack Position monsters
+
+38. Nobody Scat Thief (EDOPro: 160013060)
+    Trap Card - Anti-theft protection
+
+39. Magical Retribution (EDOPro: 160210028)
+    Trap Card - Spellcaster support trap
+
+40. Magician's Sense (EDOPro: 160209088)
+    Trap Card - Dark Magician support trap
+
+Set Code: RD/SD0E
+Release Date: April 26, 2025
+Format: 323XXX series (Black Magic Ritual theme)
+Note: This is the first Rush Duel structure deck to introduce Ritual Monsters
+
+**WARNING: This list is incomplete. The full structure deck has 43 cards but only ~30 are documented here.**

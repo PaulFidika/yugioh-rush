@@ -1,0 +1,95 @@
+Yu-Gi-Oh! Rush Duel Structure Deck: Birth of Hero
+Card List (English Names + EDOPro IDs)
+
+EXTRA DECK:
+1. Elemental HERO Flame Wingman (EDOPro: 160320001)
+   Level 6 WIND Warrior Effect Monster ATK 2100 DEF 1200
+   Fusion Summon with "Elemental HERO Sparkman" + "Elemental HERO Burstinatrix"
+
+2. Elemental HERO Burst Wingman (EDOPro: 160320002)
+   Level 6 FIRE Warrior Effect Monster ATK 2100 DEF 1200
+   Fusion Material required
+
+3. Elemental HERO Thunder Giant (EDOPro: 160320003)
+   Level 6 LIGHT Warrior Effect Monster ATK 2400 DEF 1500
+   Fusion Material required
+
+MONSTER CARDS:
+4. Elemental HERO Neos (EDOPro: 160320004)
+   Level 7 LIGHT Warrior Normal Monster ATK 2500 DEF 2000
+
+5. Elemental HERO Sparkman (EDOPro: 160320005)
+   Level 4 LIGHT Warrior Normal Monster ATK 1600 DEF 1400
+
+6. Elemental HERO Clayman (EDOPro: 160320006)
+   Level 4 EARTH Warrior Normal Monster ATK 800 DEF 2000
+
+7. Elemental HERO Burstinatrix (EDOPro: 160320007)
+   Level 3 FIRE Warrior Normal Monster ATK 1200 DEF 800
+
+8. Elemental HERO Avian (EDOPro: 160320008)
+   Level 3 WIND Warrior Normal Monster ATK 1000 DEF 1000
+
+9. Elemental HERO Bubbleman (EDOPro: 160320009)
+   Level 4 WATER Warrior Effect Monster ATK 800 DEF 1200
+
+10. Freed the Brave Wanderer (EDOPro: 160320014)
+    Level 4 LIGHT Warrior Effect Monster ATK 1700 DEF 1200
+
+11. Yamiruler the Dark Delayer - Spear Striker (EDOPro: 160001029)
+
+12. Gilford the Rising (EDOPro: 160012028)
+
+13. Max Raider (EDOPro: 160001016)
+
+14. Gaia The Fierce Knight (EDOPro: 160403001)
+
+15. Ophiclaymore the Music Princess (EDOPro: 160208027)
+
+16. Piercing Samurai (EDOPro: 160007016)
+
+17. Karatake the Talismanic Warrior (EDOPro: 160421038)
+
+18. Shitotsu the Talismanic Warrior (EDOPro: 160009029)
+
+19. Sakakaze the Talismanic Warrior (EDOPro: 160004038)
+
+20. Miginagi the Talismanic Warrior (EDOPro: 160010037)
+
+21. Siesta Torero (EDOPro: 160005035)
+
+22. Horn Knives the Music Princess (EDOPro: 160203035)
+
+23. Mezame the Ringing Alarm (EDOPro: 160007015)
+
+SPELL CARDS:
+24. Miracle Fusion (EDOPro: 160320031)
+    Normal Spell Card
+    Fusion Summon an "Elemental HERO" Fusion Monster
+
+25. Skyscraper (EDOPro: 160320032)
+    Field Spell Card
+    Your "Elemental HERO" monsters gain ATK when attacking
+
+26. Secret Order (EDOPro: 160421024)
+
+27. Parallel Birth Gate (EDOPro: 160008057)
+
+28. Fusion (EDOPro: 160204050) (2 Copies)
+    Normal Spell Card
+    Fusion Summon 1 Fusion Monster
+
+29. Magical Stone Excavation (EDOPro: 160421029)
+
+TRAP CARDS:
+30. Quaking Mirror Force (EDOPro: 160320038)
+    Normal Trap Card
+    Return all Attack Position monsters to the hand
+
+31. Dragonlion Pit Trap (EDOPro: 160205068)
+
+32. Siesta Hold (EDOPro: 160002047)
+
+Set Code: RD/SD0B
+Release Date: July 13, 2024
+Format: 320XXX series (Birth of Hero theme)

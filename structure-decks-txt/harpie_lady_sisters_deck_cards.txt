@@ -1,0 +1,70 @@
+Yu-Gi-Oh! Rush Duel Structure Deck: Harpie Lady Sisters
+Card List (English Names + EDOPro IDs)
+
+EXTRA DECK:
+1. Harpie Lady Sisters Triangle Beauty (EDOPro: 160322001)
+   Level 12 WIND Winged Beast Fusion Effect Monster ATK 3400 DEF 2100
+   Deck ace card - Triangle Beauty version
+
+MONSTER CARDS:
+2. Harpie Lady Sisters [L] (EDOPro: 160208001)
+   Level 6 WIND Winged Beast Effect Monster
+
+3. Harpie Lady Sisters [R] (EDOPro: 160208003)
+   Level 6 WIND Winged Beast Effect Monster
+
+4. Harpie Lady Sisters (EDOPro: 160208002)
+   Level 6 WIND Winged Beast Effect Monster
+   Available in Common and Normal Parallel Rare
+
+5. Harpie Lady (EDOPro: 160424007)
+   Level 4 WIND Winged Beast Normal Monster ATK 1300 DEF 1400
+   Available in Common and Ultra Rare rarities
+
+6. Harpie Lady 2 (EDOPro: 160208005)
+   Level 4 WIND Winged Beast Effect Monster
+
+7. Harpie Girl (EDOPro: 160002014)
+   Level 3 WIND Winged Beast Effect Monster ATK 500 DEF 500
+
+8. Harpie Regina (EDOPro: 160208008)
+   WIND Winged Beast Effect Monster
+
+9. Harpie Cara (EDOPro: 160208009)
+   WIND Winged Beast Effect Monster
+
+10. Harpie Signora (EDOPro: 160322006)
+    Level 4 WIND Winged Beast Effect Monster ATK 1000 DEF 300
+
+11. Harpie Belle (EDOPro: 160322007)
+    Promotional card
+
+12. Harpie Cielo (EDOPro: 160446003)
+    Reprint card
+
+13. Harpie Lady Pet Master (EDOPro: 160210018)
+    Reprint card
+
+14. Harpie Lady Feather Duster (EDOPro: 160322002)
+    Effect Monster
+
+15. Harpie Lady 2 & 3 (EDOPro: 160322003)
+    Effect Monster
+
+16. Harpie Regina Splendid Armor (EDOPro: 160322004)
+    Effect Monster
+
+17. Harpie Cara Charming Dress (EDOPro: 160322005)
+    Effect Monster
+
+SPELL CARDS:
+
+TRAP CARDS:
+19. Hysteric Party (EDOPro: 160322035)
+    Normal Trap Card
+    Harpie support card
+
+Set Code: RD/SD0D
+Release Date: March 8, 2025
+Format: 322XXX series (Harpie Lady Sisters theme)
+Note: Released alongside Structure Deck: Chimeratech Cyber

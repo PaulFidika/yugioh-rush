@@ -1,0 +1,118 @@
+Yu-Gi-Oh! Rush Duel Structure Deck: The Ultimate Blue-Eyed Legend
+Card List (English Names + EDOPro IDs)
+
+MONSTER CARDS:
+1. Blue-Eyes Ultimate Dragon (EDOPro: 160319001)
+   Fusion Material: "Blue-Eyes White Dragon" + "Blue-Eyes White Dragon" + "Blue-Eyes White Dragon"
+   Description: This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.
+
+2. Blue-Eyes White Dragon (LEGEND) (EDOPro: 160001000)
+
+3. Blue-Eyes Bright Dragon (EDOPro: 160319003)
+   Level 8 Dragon Effect Monster
+   This card's name becomes "Blue-Eyes White Dragon" while in the hand.
+   [REQUIREMENT] Send the top card of your Deck to the Graveyard.
+   [EFFECT] This turn, this card's name becomes "Blue-Eyes White Dragon" and it gains 500 ATK. Then, if you have a face-up Legend Normal Monster on your field, you can destroy 1 face-up Level 8 or lower monster on your opponent's field.
+
+4. Blue-Eyes Vision Dragon (EDOPro: 160319004)
+   Level 8 Dragon Effect Monster
+   [REQUIREMENT] Send the top card of your Deck to the Graveyard.
+   [EFFECT] This turn, this card's name becomes "Blue-Eyes White Dragon", and if you Fusion Summon "Blue-Eyes Ultimate Dragon", this face-up card can be treated as 2 materials.
+
+5. Absolute Lord of D. (EDOPro: 160319005)
+   Level 4 DARK Spellcaster Effect Monster ATK 1200 DEF 1100
+   [REQUIREMENT] During the turn this card is Normal or Special Summoned.
+   [EFFECT] Excavate the top 4 cards of your Deck and reveal them. You can choose up to 1 each of a Level 8 LIGHT Dragon monster and "The Ultimate Blue-Eyed Legend" among the excavated cards and add them to the hand, also, shuffle the remaining the cards back into the Deck.
+
+6. Node of Legend (EDOPro: 160319006)
+   Level 4 EARTH Dragon Effect Monster ATK 1300 DEF 0
+   [REQUIREMENT] During the turn this card was Normal Summoned.
+   [EFFECT] Send the top card of your Deck to the Graveyard. Then, you can add 1 "The Origin Stone of Legend" or "Sanctum of Legend" from your Graveyard to your hand.
+
+7. Soul Drake (EDOPro: 160319007)
+   Level 4 DARK Dragon Effect Monster ATK 1100 DEF 600
+   [REQUIREMENT] During your Main Phase that you Normal Summoned or Special Summoned this card, send 2 face-up Level 4 or lower Effect Monsters from your field to the Graveyard.
+   [EFFECT] Special Summon 1 Level 8 LIGHT Attribute Dragon Type monster from your Graveyard face-up to your field. Your Level 7 or lower monsters cannot attack this turn.
+
+8. Phoenix Dragoon (EDOPro: 160319008)
+   Effect Monster (Rush Duel) - Effect text unknown
+
+9. Hyozanryu (EDOPro: 160206017)
+
+10. Ancient Arise Dragon (EDOPro: 160003024)
+
+11. Ancient Arrive Dragon (EDOPro: 160421009)
+
+12. Clear Ice Dragon (EDOPro: 160003022)
+
+13. Burning Blaze Dragon (EDOPro: 160003023)
+
+14. Light Effigy (EDOPro: 160319014)
+    Normal Monster (Rush Duel)
+    "If you Tribute Summon a LIGHT Normal Monster, you can treat this 1 monster as 2 Tributes."
+    Note: Effect appears to be the same in Rush Duel format.
+
+15. Dragorite (EDOPro: 160302005)
+
+16. The Fire Dragon (EDOPro: 160005001)
+    Normal Monster (Rush Duel) - Used as Tribute material
+
+17. Sylphidra (EDOPro: 160304012)
+    Normal Monster (Rush Duel) ATK 1500 DEF 0 (approximate)
+
+18. Fairy Dragon (EDOPro: 160437008)
+
+19. Siesta Torero (EDOPro: 160005035)
+
+20. Treasure Dragon (EDOPro: 160003020)
+
+21. Triad Drago (EDOPro: 160408002)
+
+22. Kaibaman (EDOPro: 160421040) (2 copies)
+
+23. Phoenix Dragon (EDOPro: 160302009) (3 copies)
+
+24. Defender of Dragon Sorcerers (EDOPro: 160001031)
+    Effect Monster (Rush Duel) - Effect text unknown
+
+25. Double-Doom Dragon (EDOPro: 160012011) (2 copies)
+
+SPELL CARDS:
+26. Monster Reborn (LEGEND) (EDOPro: 160417004)
+
+27. The Ultimate Blue-Eyed Legend (EDOPro: 160319027)
+    Normal Spell Card
+    [EFFECT] Fusion Summon a Level 10 or higher Dragon monster by sending up to 3 Dragon monsters from your hand or field to the GY, also, during this turn, the monster Special Summoned by this effect cannot be destroyed by your opponent's effects.
+
+28. Sanctum of Legend (EDOPro: 160319028)
+    Field Spell Card
+    [REQUIREMENT] None
+    [EFFECT] While this card is face-up in a Field Zone, face-up Level 8 or higher Dragon monsters gain 500 ATK and face-up Dragon Legend monsters cannot be destroyed by effects.
+
+29. Burst Stream of Destruction (EDOPro: 160421028)
+
+30. Dragon's Inferno (EDOPro: 160302012)
+    Normal Spell Card
+    [REQUIREMENT] You have a face-up Dragon Type monster on your field.
+    [EFFECT] Destroy 1 Spell/Trap Card on your opponent's field.
+
+31. Dragonic Pressure (EDOPro: 160302011)
+
+32. Trade-In (EDOPro: 160428096)
+
+33. Silent Doom (EDOPro: 160436004)
+
+TRAP CARDS:
+34. Trap Hole (LEGEND) (EDOPro: 160202019)
+
+35. Treasure of Eyes of Blue (EDOPro: 160319035)
+    Normal Trap Card
+    [REQUIREMENT] When a monster you control is destroyed by your opponent's attack or your opponent's effect.
+    [EFFECT] Choose 1 Level 8 or higher LIGHT Dragon monster in your GY and Special Summon it to your field face-up, then, if you control a face-up "Blue-Eyes White Dragon", you can choose 1 card your opponent controls and destroy it.
+
+36. Eternal Freeze (EDOPro: 160006064)
+
+37. Dragon Double-Doom (EDOPro: 160012060)
+
+Set Code: RD/SD0A
+Format: 160401XXX (Structure Deck #0A - Z value unknown, needs verification)

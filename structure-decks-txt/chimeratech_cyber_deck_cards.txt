@@ -1,0 +1,47 @@
+Yu-Gi-Oh! Rush Duel Structure Deck: Chimeratech Cyber
+Card List (English Names + EDOPro IDs)
+
+EXTRA DECK:
+1. Chimeratech Overdragon (EDOPro: 160321001)
+   Fusion Monster - Deck ace card
+   Over Rush Rare promotional version available
+
+MONSTER CARDS:
+2. Cyber Dragon (EDOPro: 160205024)
+   Level 5 LIGHT Machine Normal Monster ATK 2100 DEF 1600
+   Main archetype monster
+
+3. Cyber Dragon Rakete (EDOPro: 160321006)
+   LIGHT Machine Effect Monster
+   Super Rare promotional card
+
+4. Cyber Dragon Zwei (EDOPro: 160321007)
+   Level 4 LIGHT Machine Effect Monster
+   Cyber Dragon support
+
+5. Cyber Dragon Nachster (EDOPro: 160321009)
+   LIGHT Machine Effect Monster
+   Cyber Dragon support
+
+6. Cyber Tactical Dragon (EDOPro: 160013044)
+   Normal rarity monster from the deck
+
+7. Proto-Cyber Dragon (EDOPro: 160205026)
+   Level 2 LIGHT Machine Effect Monster
+   Name becomes "Cyber Dragon" while on field or in Graveyard
+
+8. Cyber Processor (EDOPro: 160013021)
+   Normal rarity support monster
+
+9. Cyber Coatl (EDOPro: 160012018)
+   Normal rarity support monster
+
+SPELL CARDS:
+
+TRAP CARDS:
+
+Set Code: RD/SD0C
+Release Date: March 8, 2025
+Format: 321XXX series (Chimeratech Cyber theme)
+Total Cards: 47-48 different cards available
+Note: Released alongside Structure Deck: Harpie Lady Sisters

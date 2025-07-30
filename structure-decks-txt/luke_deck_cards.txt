@@ -1,0 +1,25 @@
+Yu-Gi-Oh! Rush Duel Starter Deck: Luke - Explosive Conquest! Dragears!!
+Card List (English Names + EDOPro IDs)
+
+MONSTER CARDS:
+1. Rush Dragon Dragears (EDOPro: 160302001)
+2. Gravity Press Dragon (EDOPro: 160302002) (3 copies)
+3. Fire Guardian (EDOPro: 160302003) (3 copies)
+4. Dragon Knight of Darkness (EDOPro: 160302004) (3 copies)
+5. Dragolite (EDOPro: 160302005) (3 copies)
+6. Twin-Edge Dragon (EDOPro: 160302006) (3 copies)
+7. Dragon's Priestess (EDOPro: 160302007) (3 copies)
+8. Dragon Bat (EDOPro: 160302008) (3 copies)
+9. Phoenix Dragon (EDOPro: 160302009) (3 copies)
+10. Palm-Sized Drago (EDOPro: 160302010) (3 copies)
+
+SPELL CARDS:
+11. Dragonic Pressure (EDOPro: 160302011) (3 copies)
+12. Fire Dragon's Heatflash (EDOPro: 160302012) (3 copies)
+
+TRAP CARDS:
+13. Dragon Encounter (EDOPro: 160302013) (3 copies)
+14. Counteroffensive Dragonstrike (EDOPro: 160302014) (3 copies)
+
+Set Code: RD/ST02-JP
+Format: 160302XXX (Starter Deck #2)

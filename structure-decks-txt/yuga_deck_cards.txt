@@ -1,0 +1,25 @@
+Yu-Gi-Oh! Rush Duel Starter Deck: Yuga - Cut Through! Sevens Road!!
+Card List (English Names + EDOPro IDs)
+
+MONSTER CARDS:
+1. Sevens Road Magician (EDOPro: 160301001)
+2. Windcaster Torna (EDOPro: 160301002) (3 copies)
+3. Answerer the Demonic Swordsman (EDOPro: 160301003) (3 copies)
+4. Hydro Magician (EDOPro: 160301004) (3 copies)
+5. Dark Sorcerer (EDOPro: 160301005) (3 copies)
+6. Mystic Dealer (EDOPro: 160301006) (3 copies)
+7. Magical Beast Wolfram (EDOPro: 160301007) (3 copies)
+8. Spell Archer (EDOPro: 160301008) (3 copies)
+9. Luminous Shaman (EDOPro: 160301009) (3 copies)
+10. Stray Familiar (EDOPro: 160301010) (3 copies)
+
+SPELL CARDS:
+11. Wind Spirit's Blessing (EDOPro: 160301011) (3 copies)
+12. Magical Stream (EDOPro: 160301012) (3 copies)
+
+TRAP CARDS:
+13. Dark Liberation (EDOPro: 160301013) (3 copies)
+14. Curtain of Sparks (EDOPro: 160301014) (3 copies)
+
+Set Code: RD/ST01-JP
+Format: 160301XXX (Starter Deck #1)

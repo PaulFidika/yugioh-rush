@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(pip install:*)",
+      "Bash(ls:*)",
+      "WebFetch(domain:ygorganization.com)",
+      "Bash(rm:*)",
+      "WebFetch(domain:yugipedia.com)",
+      "Bash(find:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:rushcard.io)",
+      "WebFetch(domain:yugi-market.com)",
+      "Bash(python:*)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:extendsclass.com)",
+      "Bash(mv:*)"
+    ],
+    "deny": []
+  }
+}
