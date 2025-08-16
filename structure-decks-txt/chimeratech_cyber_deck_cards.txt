@@ -3,45 +3,91 @@ Card List (English Names + EDOPro IDs)
 
 EXTRA DECK:
 1. Chimeratech Overdragon (EDOPro: 160321001)
-   Fusion Monster - Deck ace card
+   Level 9 DARK Machine Fusion Effect Monster ATK 0 DEF 0
+   Fusion Materials: "Cyber Dragon" + 1 or more Machine Type monsters
    Over Rush Rare promotional version available
 
-MONSTER CARDS:
-2. Cyber Dragon (EDOPro: 160205024)
-   Level 5 LIGHT Machine Normal Monster ATK 2100 DEF 1600
-   Main archetype monster
+2. Cyber End Dragon (EDOPro: 160205119)
+   Level 10 LIGHT Machine Fusion Effect Monster ATK 4000 DEF 2800
+   Fusion Materials: "Cyber Dragon" + "Cyber Dragon" + "Cyber Dragon"
+   Ultra Rare
 
-3. Cyber Dragon Rakete (EDOPro: 160321006)
-   LIGHT Machine Effect Monster
+3. Cyber Twin Dragon (EDOPro: 160205120)
+   Level 8 LIGHT Machine Fusion Effect Monster ATK 2800 DEF 2100
+   Fusion Materials: "Cyber Dragon" + "Cyber Dragon"
+   Normal Parallel Rare
+
+4. Cyber Tactical Dragon (EDOPro: 160013044)
+   Level 9 LIGHT Machine Fusion Effect Monster ATK 3200 DEF 2100
+   Fusion Materials: "Cyber Assault Dragon" + "Cyber Dragon"
+
+MONSTER CARDS:
+5. Cyber Dragon (EDOPro: 160205024)
+   Level 5 LIGHT Machine Normal Monster ATK 2100 DEF 1600
+   Main archetype monster - Normal Parallel Rare
+
+6. Cyber Dragon Rakete (EDOPro: 160321006)
+   Level 8 LIGHT Machine Effect Monster ATK 2100 DEF 2100
    Super Rare promotional card
 
-4. Cyber Dragon Zwei (EDOPro: 160321007)
-   Level 4 LIGHT Machine Effect Monster
+7. Cyber Dragon Zwei (EDOPro: 160321007)
+   Level 4 LIGHT Machine Effect Monster ATK 1500 DEF 1000
+   Super Rare promotional card
+
+8. Cyber Dragon Nachster (EDOPro: 160321009)
+   Level 1 LIGHT Machine Effect Monster ATK 200 DEF 200
    Cyber Dragon support
 
-5. Cyber Dragon Nachster (EDOPro: 160321009)
-   LIGHT Machine Effect Monster
-   Cyber Dragon support
-
-6. Cyber Tactical Dragon (EDOPro: 160013044)
-   Normal rarity monster from the deck
-
-7. Proto-Cyber Dragon (EDOPro: 160205026)
-   Level 2 LIGHT Machine Effect Monster
+9. Proto-Cyber Dragon (EDOPro: 160205026)
+   Level 3 LIGHT Machine Effect Monster ATK 1100 DEF 600
    Name becomes "Cyber Dragon" while on field or in Graveyard
 
-8. Cyber Processor (EDOPro: 160013021)
-   Normal rarity support monster
+10. Cyber Assault Dragon (EDOPro: 160205022)
+    Level 8 LIGHT Machine Effect Monster ATK 2400 DEF 1800
+    Tribute Summon support
 
-9. Cyber Coatl (EDOPro: 160012018)
-   Normal rarity support monster
+11. Cyber Stealth Dragon (EDOPro: 160205023)
+    Level 8 LIGHT Machine Effect Monster ATK 2500 DEF 800
+    Tribute Summon support
+
+12. Jinzo (EDOPro: 160205027)
+    Level 6 DARK Machine Effect Monster ATK 2400 DEF 1500
+    Normal Parallel Rare
+
+13. Ultimate Flag Beast Boltricorn (EDOPro: 160205028)
+    Level 8 LIGHT Beast Effect Monster ATK 2500 DEF 1000
+    Normal Parallel Rare
+
+14. Cyber Serpent (EDOPro: 160205025)
+    Level 4 LIGHT Machine Normal Monster ATK 1000 DEF 1200
+    Normal Parallel Rare
+
+15. Cyber Search Dragon (EDOPro: 160402022)
+    Level 8 LIGHT Machine Effect Monster ATK 2400 DEF 1600
+    Tribute Summon support
 
 SPELL CARDS:
+16. Cyber Rush Fusion (EDOPro: 160321029)
+    Normal Spell Card
+    Fusion Summon spell for Cyber Dragon monsters
+
+17. Power Bond (EDOPro: 160205029)
+    Normal Spell Card
+    Normal Parallel Rare
 
 TRAP CARDS:
+18. Cybernetic Overflow (EDOPro: 160321037)
+    Normal Trap Card
+    Super Rare promotional card
+
+19. Compulsory Evacuation Device (EDOPro: 160205030)
+    Normal Trap Card
+    Normal Parallel Rare
 
 Set Code: RD/SD0C
 Release Date: March 8, 2025
 Format: 321XXX series (Chimeratech Cyber theme)
-Total Cards: 47-48 different cards available
+Total Cards: 45 cards in preconstructed deck + 7 promotional cards
+Deck Structure: 2 Ultra Rares, 7 Normal Parallel Rares, 36 Commons
+Promotional Cards: 1 Over Rush Rare, 6 Super Rares
 Note: Released alongside Structure Deck: Harpie Lady Sisters

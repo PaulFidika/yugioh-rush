@@ -4,67 +4,120 @@ Card List (English Names + EDOPro IDs)
 EXTRA DECK:
 1. Harpie Lady Sisters Triangle Beauty (EDOPro: 160322001)
    Level 12 WIND Winged Beast Fusion Effect Monster ATK 3400 DEF 2100
-   Deck ace card - Triangle Beauty version
+   Fusion Materials: "Harpie Lady Sisters" + 2 WIND Attribute Winged Beast Type monsters
+   Deck ace card - Over Rush Rare promotional version
+
+2. Harpie Lady Feather Duster (EDOPro: 160322002)
+   Level 5 WIND Winged Beast Fusion Effect Monster ATK 2100 DEF 1400
+   Fusion Materials: 1 Level 4 "Harpie Lady" + 1 WIND Attribute Winged Beast Type Normal Monster
+   Super Rare promotional card
+
+3. Harpie Lady 2 & 3 (EDOPro: 160322003)
+   Level 8 WIND Winged Beast Fusion Effect Monster ATK 2600 DEF 1400
+   Fusion Materials: "Harpie Lady 2" + 1 Level 4 or lower Winged Beast Type monster
+   Super Rare promotional card
+
+4. Harpie Regina Splendid Armor (EDOPro: 160322004)
+   Level 5 WIND Winged Beast Fusion Effect Monster ATK 2100 DEF 1400
+   Fusion Materials: "Harpie Regina" + 1 Level 4 or lower Winged Beast Type monster
+   Super Rare promotional card
+
+5. Harpie Cara Charming Dress (EDOPro: 160322005)
+   Level 5 WIND Winged Beast Fusion Effect Monster ATK 1500 DEF 1400
+   Fusion Materials: "Harpie Cara" + 1 Level 4 or lower Winged Beast Type monster
+   Super Rare promotional card
 
 MONSTER CARDS:
-2. Harpie Lady Sisters [L] (EDOPro: 160208001)
-   Level 6 WIND Winged Beast Effect Monster
+6. Harpie Lady Sisters [L] (EDOPro: 160208001)
+   Level 5 WIND Winged Beast Effect Monster ATK 2100 DEF 0
+   Normal Parallel Rare
 
-3. Harpie Lady Sisters [R] (EDOPro: 160208003)
-   Level 6 WIND Winged Beast Effect Monster
+7. Harpie Lady Sisters (EDOPro: 160208002)
+   Level 5 WIND Winged Beast Effect Monster ATK 2100 DEF 0
+   Normal Parallel Rare
 
-4. Harpie Lady Sisters (EDOPro: 160208002)
-   Level 6 WIND Winged Beast Effect Monster
-   Available in Common and Normal Parallel Rare
+8. Harpie Lady Sisters [R] (EDOPro: 160208003)
+   Level 5 WIND Winged Beast Effect Monster ATK 2100 DEF 0
+   Normal Parallel Rare
 
-5. Harpie Lady (EDOPro: 160424007)
+9. Harpie Lady (EDOPro: 160424007)
    Level 4 WIND Winged Beast Normal Monster ATK 1300 DEF 1400
-   Available in Common and Ultra Rare rarities
+   Ultra Rare
 
-6. Harpie Lady 2 (EDOPro: 160208005)
-   Level 4 WIND Winged Beast Effect Monster
+10. Harpie Lady 2 (EDOPro: 160208005)
+    Level 4 WIND Winged Beast Effect Monster ATK 1300 DEF 1400
+    Normal Parallel Rare
 
-7. Harpie Girl (EDOPro: 160002014)
-   Level 3 WIND Winged Beast Effect Monster ATK 500 DEF 500
+11. Harpie Girl (EDOPro: 160002014)
+    Level 2 WIND Winged Beast Effect Monster ATK 500 DEF 500
+    Common
 
-8. Harpie Regina (EDOPro: 160208008)
-   WIND Winged Beast Effect Monster
-
-9. Harpie Cara (EDOPro: 160208009)
-   WIND Winged Beast Effect Monster
-
-10. Harpie Signora (EDOPro: 160322006)
+12. Harpie Regina (EDOPro: 160208008)
     Level 4 WIND Winged Beast Effect Monster ATK 1000 DEF 300
+    Common
 
-11. Harpie Belle (EDOPro: 160322007)
-    Promotional card
+13. Harpie Cara (EDOPro: 160208009)
+    Level 2 WIND Winged Beast Effect Monster ATK 500 DEF 500
+    Common
 
-12. Harpie Cielo (EDOPro: 160446003)
-    Reprint card
+14. Harpie Signora (EDOPro: 160322006)
+    Level 4 WIND Winged Beast Effect Monster ATK 1000 DEF 300
+    Common
 
-13. Harpie Lady Pet Master (EDOPro: 160210018)
-    Reprint card
+15. Harpie Belle (EDOPro: 160322007)
+    Level 2 WIND Winged Beast Effect Monster ATK 500 DEF 500
+    Super Rare promotional card
 
-14. Harpie Lady Feather Duster (EDOPro: 160322002)
-    Effect Monster
+16. Harpie Cielo (EDOPro: 160446003)
+    Level 4 WIND Winged Beast Effect Monster ATK 1000 DEF 300
+    Common reprint
 
-15. Harpie Lady 2 & 3 (EDOPro: 160322003)
-    Effect Monster
+17. Harpie Lady Pet Master (EDOPro: 160210018)
+    Level 4 WIND Winged Beast Effect Monster ATK 1300 DEF 1400
+    Common reprint
 
-16. Harpie Regina Splendid Armor (EDOPro: 160322004)
-    Effect Monster
+18. Harpie's Pet Dragon (EDOPro: 160208010)
+    Level 7 WIND Dragon Effect Monster ATK 2000 DEF 2500
+    Normal Parallel Rare
 
-17. Harpie Cara Charming Dress (EDOPro: 160322005)
-    Effect Monster
+19. Whispering Fairy (EDOPro: 160452016)
+    Level 2 LIGHT Fairy Effect Monster ATK 800 DEF 1200
+    Common
 
 SPELL CARDS:
+20. Harpie's Full Dress (EDOPro: 160208012)
+    Equip Spell Card
+    Common
+
+21. Harpie's Hunting Ground (EDOPro: 160208013)
+    Field Spell Card
+    Common
+
+22. Harpie's Feather Duster (EDOPro: 160214052)
+    Normal Spell Card
+    Normal Parallel Rare
+
+23. Elegant Egotist (Rush) (EDOPro: 160208014)
+    Normal Spell Card
+    Normal Parallel Rare
+
+24. Dark Hole (EDOPro: 160001018)
+    Normal Spell Card
+    Common reprint
 
 TRAP CARDS:
-19. Hysteric Party (EDOPro: 160322035)
+25. Hysteric Party (EDOPro: 160322035)
     Normal Trap Card
-    Harpie support card
+    Super Rare promotional card
+
+26. Harpie's Feather Tempest (EDOPro: 160208016)
+    Normal Trap Card
+    Common
 
 Set Code: RD/SD0D
 Release Date: March 8, 2025
 Format: 322XXX series (Harpie Lady Sisters theme)
+Total Cards: 45 cards in preconstructed deck + 7 promotional cards
+Deck Structure: 2 Ultra Rares, 7 Normal Parallel Rares, 36 Commons
+Promotional Cards: 1 Over Rush Rare, 6 Super Rares
 Note: Released alongside Structure Deck: Chimeratech Cyber
